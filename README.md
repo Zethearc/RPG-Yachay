@@ -1,8 +1,9 @@
 # RPG-Yachay
 Final Project - Graphic Computer
 
-Platform: Unity
+Platform: Unity 
 Studio Name: ...
 Game's Name: ...
 Genre: Aventure - RPG
 Autors: Dario Cabezas, ..., ..., ...
+Pixel size: 32 x 32
