@@ -2,8 +2,8 @@
 Final Project - Graphic Computer
 
 Platform: Unity 
-Studio Name: ...
-Game's Name: ...
+Studio Name: Foursome Studio
+Game's Name: The Switch Baron
 Genre: Aventure - RPG
-Autors: Dario Cabezas, ..., ..., ...
+Autors: Dario Cabezas, Kevin Contreras, Ricardo Velasco, Argenis andrade
 Pixel size: 32 x 32
